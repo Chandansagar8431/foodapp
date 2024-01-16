@@ -3,3 +3,27 @@
 @tailwind utilities;
 
 
+.bg-vibrant-background {
+    background: linear-gradient(45deg, #5220e9, #96b7d1, #9bb595, #648adb);
+    background-size: 400% 400%;
+    /* animation: gradientAnimation 15s ease infinite; */
+  }
+  
+  /* Word styling with gradient text */
+  /* .text-gradient {
+   color:white;
+   
+    background-image: linear-gradient(45deg, #FF6B6B, #FFE66D, #8AFF6D, #6D9BFF);
+  } */
+  
+  /* @keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  } */
